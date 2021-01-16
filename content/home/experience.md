@@ -26,8 +26,8 @@ experience:
     company: UBiAi Technology
     company_url: ''
     location: Beijing
-    date_start: '2019-03'
-    date_end: '2019-07'
+    date_start: '2019-03-01'
+    date_end: '2019-07-01'
     description: |2-
         Responsibilities include:
         
