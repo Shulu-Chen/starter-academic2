@@ -35,14 +35,12 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Quality Management Intern
-    company: Beijing Benz Automotive Co., Ltd.
+  - title: Professor
+    company: University X
     company_url: ''
-    location: Beijing, China
-    date_start: '2018-03'
-    date_end: '2018-07'
-    description: Audit complete operations, ranging from forging to assembly for entire manufacturing process
-Collaborate with 8 engineers to produce 34-page quality manual for Quality Management Department
-Complete quality management project from start-to-finish for inaugural model of Mercedes "GLC-L" for Chinese market
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 ---
