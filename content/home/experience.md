@@ -31,15 +31,20 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Completed the “Smart Aftermarket Maintenance Forecast” project.
+        * Designed user labels to improve user portraits.
         
-  - title: Professor
-    company: University X
+        
+  - title: Quality Management Intern
+    company: Beijing Benz Automotive Co., Ltd.
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Beijing
+    date_start: '2018-03-01'
+    date_end: '2018-07-31'
+    description: |2-
+    
+        * Audited operations, ranging from forging to the assembly for the entire manufacturing process.
+        * Collaborated with 8 engineers to produce a 34-page quality manual for the Quality Management Department.
+        * Completed quality management project from start-to-finish for an inaugural model of Mercedes "GLC-L" for the Chinese market.
+    
 ---
