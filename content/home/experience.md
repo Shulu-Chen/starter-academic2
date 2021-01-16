@@ -29,6 +29,8 @@ experience:
     date_start: '2019-03'
     date_end: '2019-07'
     description: 
+     Responsibilities include:
+     
     Complete the “Smart Aftermarket Maintenance Forecast” project. Mine user needs, design product prototypes; score and weight daily weather conditions in cities across the country; use Arima models to predict driving mileage of owners; use python to access the database to retrieves the data and realize the automatic operation
 Design user labels to improve user portraits. Design user static label more than 300 items, accurately determine the user characteristics of each owner; combined with the driving behavior of the owner, use K-Means cluster analysis to design the driving behavior label
         
