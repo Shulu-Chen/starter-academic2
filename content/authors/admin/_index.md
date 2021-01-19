@@ -18,9 +18,9 @@ bio: My research interests include Reinforcement Learning, Optimization, Machine
 
 # Interests to show in About widget
 interests:
-- Deep Reinforcement Learning
+- Reinforcement Learning
 - Federated learning
-- Machine Learning
+- Deep Learning
 - Data Analysis
 - Optimization
 
