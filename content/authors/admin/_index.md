@@ -66,6 +66,6 @@ email: "shulu@gwu.edu"
 highlight_name: false
 ---
 
-I am a Ph.D. student in the Department of Electrical and Computer Engineering at the George Washington University. My adivisors are Professor [Peng Wei](https://web.seas.gwu.edu/pwei/) and Professor [Tian Lan](https://www2.seas.gwu.edu/~tlan/). My current research focuses on the Deep Learning, Deep Reinforcement Learning, Optimization and their related applications.  
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at George Washington University. My advisors are Professor [Peng Wei](https://web.seas.gwu.edu/pwei/) and Professor [Tian Lan](https://www2.seas.gwu.edu/~tlan/). My current research focuses on Deep Learning, Deep Reinforcement Learning, Optimization, and their related applications.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
