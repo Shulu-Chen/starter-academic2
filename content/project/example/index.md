@@ -1,5 +1,5 @@
 ---
-title: Matrix Completion for Recommendation System Based on Faderated Learning
+title: Matrix Completion for Recommendation System Based on Federated Learning
 summary:  .
 tags:
 - Deep Learning
